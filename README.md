@@ -9,3 +9,8 @@
 5. ordered and unordered lists
 6. emphasis text
 
+## CSS used:
+1. Text color and background color
+2. font weight, size, and family
+3. text align
+

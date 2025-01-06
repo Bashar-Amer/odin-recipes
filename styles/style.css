@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(236, 252, 255);
+}
+
+
+
+
+.main-option {
+    font-size: 50px;
+    color: brown;
+    font-weight: 100;
+    text-align: center;
+}
+
+.dish-section {
+    color: rgb(172, 55, 55);
+    text-align: center;
+    font-size: 25px;
+
+}
+
+
+
+h1,h2,h3 {
+    text-align: center;
+}
+
+#home-title {
+    color: brown;
+    font-size: 100px;
+}
+
+#dish-title {
+    font-size: 50px;
+}
+
+* {
+    font-family: 'Brush Script MT', cursive, sans-serif;
+}
