@@ -1,16 +1,30 @@
 body {
     background-color: rgb(236, 252, 255);
+    font-family: 'Brush Script MT', cursive, sans-serif;
 }
 
 
 
 
-.main-option {
+
+#main-menu li  {
+    margin: 100px auto;
     font-size: 50px;
-    color: brown;
     font-weight: 100;
+    width: 700px;
+    list-style: none;
     text-align: center;
 }
+
+#main-menu a  {
+    color: rgb(66, 192, 182);
+    background-color: rgb(172, 55, 55);
+    border: 5px dashed rgb(66, 192, 182);
+    padding: 10px;
+}
+
+
+
 
 .dish-section {
     color: rgb(172, 55, 55);
@@ -18,8 +32,6 @@ body {
     font-size: 25px;
 
 }
-
-
 
 h1,h2,h3 {
     text-align: center;
@@ -32,8 +44,4 @@ h1,h2,h3 {
 
 #dish-title {
     font-size: 50px;
-}
-
-* {
-    font-family: 'Brush Script MT', cursive, sans-serif;
 }

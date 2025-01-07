@@ -10,7 +10,9 @@
 6. emphasis text
 
 ## CSS used:
-1. Text color and background color
+1. text color and background color
 2. font weight, size, and family
 3. text align
-
+4. margin
+5. border
+6. padding
